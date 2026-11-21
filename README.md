@@ -44,59 +44,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Devin (Cognition AI)](https://cognition.ai)**  
-
-  Autonomous AI software engineer equipped with its own cloud shell, code editor, and browser to plan, execute, debug, and deploy full engineering tasks end-to-end.
-
-
-
-- **[GitHub Copilot Workspace](https://github.com)**  
-
-  Task-centric cloud coding environment integrated into GitHub repositories that transforms issues into step-by-step specifications, multi-file plans, and pull requests.
-
-
-
-- **[Factory (Droids / Factory Code)](https://factory.ai)**  
-
-  Enterprise autonomous software development platform deploying specialized AI agents ("Droids") for code generation, migration, PR review, and incident triage.
-
-
-
-- **[Replit Agent](https://replit.com)**  
-
-  Cloud IDE autonomous agent that scaffolds, builds, configures databases, debugs, and deploys full-stack web applications from natural language and visual screenshots.
-
-
-
-- **[Augment Code](https://augmentcode.com)**  
-
-  Context-aware enterprise AI coding assistant and autonomous agent engineered for massive multi-repository codebases with deep architectural retrieval.
-
-
-
-- **[Magic.dev](https://magic.dev)**  
-
-  Frontier AI coding platform leveraging ultra-long-context neural architectures to reason across entire repositories, documentation, and complex refactoring tasks.
-
-
-
-- **[Cosine (Genie)](https://cosine.sh)**  
-
-  Autonomous AI software engineering platform trained on human developer workflows to resolve GitHub issues, write tests, and submit production pull requests.
-
-
-
-- **[Cursor (Background Agents)](https://cursor.com)**  
-
-  AI-first code editor featuring autonomous cloud background agents capable of running isolated tasks, inspecting UI screenshots, and opening pull requests asynchronously.
-
-
-
-- **[Claude Code (Anthropic)](https://anthropic.com)**  
-
-  Agentic terminal and cloud coding tool that searches codebases, edits files, executes test suites, and manages Git workflows directly from natural language instructions.
+| Platform / Tool | Description | Pricing (Starting Tier) | Free Tier / Trial Limits | Company Valuation / Revenue (Scale) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Copilot Workspace](https://github.com)** | Task-centric cloud coding environment integrated into GitHub repositories that transforms issues into step-by-step specifications, multi-file plans, and pull requests. | **$10 / month** (Copilot Pro) or $19 / user / month (Business) | **Free Forever**: 2,000 code completions/month & 50 chat/workspace requests/month; free for verified students | **~$3.7 Trillion** market cap (Parent: Microsoft; Copilot ARR: ~$1B) |
+| **[Claude Code (Anthropic)](https://anthropic.com)** | Agentic terminal and cloud coding tool that searches codebases, edits files, executes test suites, and manages Git workflows directly from natural language instructions. | **$20 / month** (Claude Pro) or pay-as-you-go API consumption | **Free Trial Only**: No free subscription tier; new Anthropic Console API accounts receive a one-time **$5 free credit** grant (phone verification required) | **~$1.5 Trillion** market cap / valuation (Anthropic; ARR: >$65B) |
+| **[Cursor (Background Agents)](https://cursor.com)** | AI-first code editor featuring autonomous cloud background agents capable of running isolated tasks, inspecting UI screenshots, and opening pull requests asynchronously. | **$20 / month** (Pro Plan) | **Free Forever**: 2,000 Tab code completions/month + 50 slow/premium requests/month | **~$60 Billion** valuation (Acquired by SpaceX/SpaceXAI; ARR: ~$4B) |
+| **[Devin (Cognition AI)](https://cognition.ai)** | Autonomous AI software engineer equipped with its own cloud shell, code editor, and browser to plan, execute, debug, and deploy full engineering tasks end-to-end. | **$20 / month** (Pro Plan) | **Free Forever**: Unlimited inline edits & Tab completions + light daily/weekly agent interaction quota | **~$48 Billion** valuation (Cognition AI Series E) |
+| **[Replit Agent](https://replit.com)** | Cloud IDE autonomous agent that scaffolds, builds, configures databases, debugs, and deploys full-stack web applications from natural language and visual screenshots. | **$20 / month** (Replit Core with $25/mo Agent credits) | **Free Forever**: Daily refreshing Agent credits quota for evaluation + 1 published app deployment | **~$9 Billion** valuation (Replit Series D; ARR: ~$500M) |
+| **[Magic.dev](https://magic.dev)** | Frontier AI coding platform leveraging ultra-long-context neural architectures to reason across entire repositories, documentation, and complex refactoring tasks. | Custom quote-based enterprise contract (Developer preview via invite) | **Free Trial / Preview Only**: Early-access waitlist / preview trial granted upon registration and cohort onboarding | **~$2.9 Billion** valuation (CapitalG/Sequoia backed) |
+| **[Factory (Droids / Factory Code)](https://factory.ai)** | Enterprise autonomous software development platform deploying specialized AI agents ("Droids") for code generation, migration, PR review, and incident triage. | **$20 / month** (Pro Plan) | **Free Forever (BYOK)**: Droid CLI free with Bring Your Own API Key; managed platform provides promotional signup credits/tokens (no standard free days) | **~$1.5 Billion** valuation (Factory Series C) |
+| **[Augment Code](https://augmentcode.com)** | Context-aware enterprise AI coding assistant and autonomous agent engineered for massive multi-repository codebases with deep architectural retrieval. | **$20 / month** (Indie Plan) | **Free Trial Only**: 14-day free trial with full feature access and up to 600 messages / 30,000 credits pool | **~$977 Million** valuation (Series B; ARR: ~$20M) |
+| **[Cosine (Genie)](https://cosine.sh)** | Autonomous AI software engineering platform trained on human developer workflows to resolve GitHub issues, write tests, and submit production pull requests. | **$19 / month** (Starter Plan with 4M credits) | **Free Trial Only**: No permanent free tier; paid Starter tier ($19/mo) required for live agent evaluation | **~$8 Million+** funding raised (YC backed, early-stage private) |
 
 
 
