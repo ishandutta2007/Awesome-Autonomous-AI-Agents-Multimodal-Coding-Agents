@@ -229,3 +229,12 @@ Star the repo if you find it useful!
 **Made for software engineers, AI agent researchers, DevOps architects, and open-source contributors.**  
 
 Let's make autonomous software engineering more open, transparent, and developer-controlled.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents_growth.svg">
+  </picture>
+</a>
