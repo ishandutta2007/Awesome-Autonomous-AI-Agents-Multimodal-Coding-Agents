@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#050814" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="pillGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="pillGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="pillGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#db2777" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="pillGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Glowing filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.7" stroke-opacity="0.3" />
+      <circle cx="40" cy="0" r="1.5" fill="#64748b" fill-opacity="0.4" />
+    </pattern>
+
+    <style>
+      .title-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        letter-spacing: -0.5px;
+      }
+      .sub-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        fill: #94a3b8;
+      }
+      .tag-text {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-weight: 600;
+        font-size: 13px;
+      }
+      .metric-label {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="420" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="420" rx="16" fill="url(#gridPattern)" />
+
+  <!-- DYNAMIC / ANIMATED BACKGROUND ELEMENTS (Behind Text) -->
+  <g id="dynamic-elements">
+    <!-- Animated Glowing Orb 1 -->
+    <circle cx="150" cy="90" r="130" fill="#38bdf8" opacity="0.18" filter="url(#glow)">
+      <animate attributeName="cx" values="150;220;150" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="90;130;90" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.14;0.25;0.14" dur="6s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Animated Glowing Orb 2 -->
+    <circle cx="1060" cy="300" r="160" fill="#a855f7" opacity="0.18" filter="url(#glow)">
+      <animate attributeName="cx" values="1060;980;1060" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="300;240;300" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.15;0.26;0.15" dur="7s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Animated Glowing Orb 3 -->
+    <circle cx="600" cy="380" r="120" fill="#10b981" opacity="0.12" filter="url(#glow)">
+      <animate attributeName="cy" values="380;340;380" dur="11s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="8s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Floating Cyber Mesh Lines / Diagram Nodes (Lower layer) -->
+    <g opacity="0.4">
+      <path d="M 50 350 Q 300 280 600 350 T 1150 300" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="6 6">
+        <animate attributeName="stroke-dashoffset" values="0;100" dur="20s" repeatCount="indefinite" />
+      </path>
+      <path d="M 50 380 Q 400 320 800 380 T 1150 340" fill="none" stroke="#c084fc" stroke-width="1.5" stroke-dasharray="8 8">
+        <animate attributeName="stroke-dashoffset" values="100;0" dur="25s" repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <!-- Floating Pulse Rings around edges -->
+    <circle cx="950" cy="80" r="6" fill="#38bdf8">
+      <animate attributeName="r" values="3;18;3" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="100" cy="320" r="6" fill="#c084fc">
+      <animate attributeName="r" values="3;18;3" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- FOREGROUND CONTENT: Header Badges, Title, Subtitle, Feature Pills -->
+  <g id="foreground-content">
+    <!-- Header Micro Badge -->
+    <g transform="translate(60, 48)">
+      <rect width="250" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+      <circle cx="15" cy="14" r="5" fill="#10b981">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="28" y="19" class="tag-text" fill="#38bdf8">CURATED ECOSYSTEM 2026</text>
+    </g>
+
+    <!-- Live Status Pill right -->
+    <g transform="translate(930, 48)">
+      <rect width="210" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+      <circle cx="16" cy="14" r="4" fill="#a855f7" />
+      <text x="28" y="19" class="tag-text" fill="#e2e8f0">SWE-BENCH &amp; MCP READY</text>
+    </g>
+
+    <!-- MAIN TITLE (Guaranteed Foreground) -->
+    <text x="60" y="132" class="title-text" fill="url(#textGrad)">
+      Autonomous AI &amp; Multimodal Coding Agents
+    </text>
+
+    <!-- SUBTITLE -->
+    <text x="60" y="174" class="sub-text">
+      The definitive index of frontier SaaS platforms, open-source terminal agents &amp; multimodal coding runtimes
+    </text>
+
+    <!-- FEATURE PILLS / TAGS -->
+    <!-- Pill 1: Autonomous SWE -->
+    <g transform="translate(60, 220)">
+      <rect width="245" height="42" rx="10" fill="url(#pillGrad1)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="18" y="26" class="tag-text" fill="#7dd3fc">🤖 Autonomous SWE Agents</text>
+    </g>
+
+    <!-- Pill 2: Multimodal & Vision -->
+    <g transform="translate(320, 220)">
+      <rect width="255" height="42" rx="10" fill="url(#pillGrad2)" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="18" y="26" class="tag-text" fill="#d8b4fe">👁️ Multimodal &amp; Browser-Use</text>
+    </g>
+
+    <!-- Pill 3: Terminal & Sandboxes -->
+    <g transform="translate(590, 220)">
+      <rect width="260" height="42" rx="10" fill="url(#pillGrad3)" stroke="#ec4899" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="18" y="26" class="tag-text" fill="#f472b6">⚡ Terminal CLIs &amp; MicroVMs</text>
+    </g>
+
+    <!-- Pill 4: Open Source & Self-Hosted -->
+    <g transform="translate(865, 220)">
+      <rect width="275" height="42" rx="10" fill="url(#pillGrad4)" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="18" y="26" class="tag-text" fill="#6ee7b7">🔓 100% Self-Hosted &amp; Open</text>
+    </g>
+
+    <!-- BOTTOM STATS / ARCHITECTURE BAR -->
+    <g transform="translate(60, 295)">
+      <rect width="1080" height="75" rx="12" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1.2" />
+      
+      <!-- Metric 1 -->
+      <g transform="translate(35, 24)">
+        <text x="0" y="0" class="metric-label" fill="#64748b">TOP PLATFORMS</text>
+        <text x="0" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20" fill="#f8fafc">Devin • Cursor • Claude</text>
+      </g>
+      
+      <line x1="330" y1="15" x2="330" y2="60" stroke="#334155" stroke-width="1" />
+
+      <!-- Metric 2 -->
+      <g transform="translate(365, 24)">
+        <text x="0" y="0" class="metric-label" fill="#64748b">OPEN-SOURCE ECOSYSTEM</text>
+        <text x="0" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20" fill="#38bdf8">OpenHands • Cline • Goose</text>
+      </g>
+
+      <line x1="720" y1="15" x2="720" y2="60" stroke="#334155" stroke-width="1" />
+
+      <!-- Metric 3 -->
+      <g transform="translate(755, 24)">
+        <text x="0" y="0" class="metric-label" fill="#64748b">STANDARDS &amp; PROTOCOLS</text>
+        <text x="0" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20" fill="#a855f7">Model Context Protocol (MCP)</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Border Accent -->
+  <rect width="1196" height="416" x="2" y="2" rx="15" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.3" />
+</svg>
