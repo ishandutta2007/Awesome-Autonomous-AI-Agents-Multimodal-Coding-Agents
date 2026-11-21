@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -65,64 +65,64 @@ The autonomous AI coding assistants and agentic software engineering sector is e
 
 Curated list of self-hosted autonomous software engineering agents, multimodal computer-use frameworks, and CLI assistants—sorted in descending order by GitHub stargazers count:
 
-1. **[OpenCode (`sst/opencode`)](https://github.com/sst/opencode)** [![GitHub stars](https://img.shields.io/github/stars/sst/opencode?style=social&color=white)](https://github.com/sst/opencode/stargazers)  
+1. **[OpenCode (`sst/opencode`)](https://github.com/sst/opencode)** [![GitHub_Stars](https://img.shields.io/github/stars/sst/opencode?style=social&color=white)](https://github.com/sst/opencode/stargazers)  
    ⚡ Ultra-fast, open-source terminal-based AI coding assistant and agent built for multi-provider LLM orchestration, LSP-powered code intelligence, and seamless developer terminal sessions.
 
-2. **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+2. **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
    🧠 The vision of accessible AI for everyone: foundational autonomous agent platform orchestrating multi-agent systems, file systems, code execution, and modular agent blocks.
 
-3. **[Browser Use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+3. **[Browser Use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    🌐 Open-source multimodal web-browsing agent library enabling AI coding, scraping, and research agents to visually inspect web interfaces, click buttons, fill forms, and verify frontend UIs.
 
-4. **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+4. **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
    🛠️ Flagship open-source platform for autonomous AI software development agents equipped with sandboxed bash terminals, file managers, and headless browsers for end-to-end task execution.
 
-5. **[Cline (formerly Claude Dev)](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+5. **[Cline (formerly Claude Dev)](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
    💻 Autonomous open-source IDE coding agent for VS Code capable of creating/editing files, executing terminal commands, launching browsers for UI inspection, and integrating Model Context Protocol (MCP) tools.
 
-6. **[MetaGPT (`geekan/MetaGPT`)](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+6. **[MetaGPT (`geekan/MetaGPT`)](https://github.com/geekan/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
    🏢 Multi-agent software company simulation framework assigning Product Manager, Architect, Project Manager, and Engineer roles to collaboratively generate PRDs, architecture designs, and production code.
 
-7. **[Goose (`block/goose`)](https://github.com/block/goose)** [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers)  
+7. **[Goose (`block/goose`)](https://github.com/block/goose)** [![GitHub_Stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers)  
    🪿 Extensible open-source on-machine AI agent built in Rust by Block that automates engineering tasks, executes shell commands, edits codebases, and integrates natively with Model Context Protocol (MCP) servers.
 
-8. **[GPT-Engineer (`gpt-engineer-org/gpt-engineer`)](https://github.com/gpt-engineer-org/gpt-engineer)** [![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social&color=white)](https://github.com/gpt-engineer-org/gpt-engineer/stargazers)  
+8. **[GPT-Engineer (`gpt-engineer-org/gpt-engineer`)](https://github.com/gpt-engineer-org/gpt-engineer)** [![GitHub_Stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social&color=white)](https://github.com/gpt-engineer-org/gpt-engineer/stargazers)  
    🏗️ Autonomous CLI tool that scaffolds whole codebases from natural language prompts, conducts clarifying Q&A interviews, and iteratively refactors existing software repositories.
 
-9. **[Aider (`Aider-AI/aider`)](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+9. **[Aider (`Aider-AI/aider`)](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
    ⌨️ Premier terminal AI pair programming CLI with whole-repo Git mapping, multimodal image/screenshot inputs, automated linting/testing loops, and seamless local or cloud LLM backend support.
 
-10. **[Khoj (`khoj-ai/khoj`)](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+10. **[Khoj (`khoj-ai/khoj`)](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
     🔎 Open-source personal AI agent and research copilot capable of searching your local notes, documents, and codebases, executing deep internet searches, and building custom autonomous workflows.
 
-11. **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+11. **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
     🔌 Open-source IDE extension bringing autocomplete, multi-file chat, custom slash commands, and agentic workflows to VS Code and JetBrains via local Ollama or cloud models.
 
-12. **[ChatDev (`OpenBMB/ChatDev`)](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+12. **[ChatDev (`OpenBMB/ChatDev`)](https://github.com/OpenBMB/ChatDev)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
     👥 Virtual software development company framework where multi-agent roles (CEO, CPO, CTO, Programmer, Reviewer, Tester) communicate through multi-agent chats to build custom software.
 
-13. **[Roo Code (`RooVetGit/Roo-Code`)](https://github.com/RooVetGit/Roo-Code)** [![GitHub stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=social&color=white)](https://github.com/RooVetGit/Roo-Code/stargazers)  
+13. **[Roo Code (`RooVetGit/Roo-Code`)](https://github.com/RooVetGit/Roo-Code)** [![GitHub_Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Code?style=social&color=white)](https://github.com/RooVetGit/Roo-Code/stargazers)  
     🦘 Multi-mode autonomous AI coding agent for VS Code offering dedicated Architect, Code, Ask, and Debug personas with customizable system prompts and fine-grained tool approvals.
 
-14. **[SWE-agent (`princeton-nlp/SWE-agent`)](https://github.com/princeton-nlp/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers)  
+14. **[SWE-agent (`princeton-nlp/SWE-agent`)](https://github.com/princeton-nlp/SWE-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers)  
     🔬 Princeton NLP's academic benchmark-setting autonomous software engineer introducing an Agent-Computer Interface (ACI) specifically optimized for LLMs to resolve real GitHub issues.
 
-15. **[kortix-ai/suna](https://github.com/kortix-ai/suna)** [![GitHub stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social&color=white)](https://github.com/kortix-ai/suna/stargazers)  
+15. **[kortix-ai/suna](https://github.com/kortix-ai/suna)** [![GitHub_Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social&color=white)](https://github.com/kortix-ai/suna/stargazers)  
     🧩 Generalist open-source autonomous agent blending browser automation, file operations, Python code execution, web search, and real-time multimodal task orchestration.
 
-16. **[Devika (`stitionai/devika`)](https://github.com/stitionai/devika)** [![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)  
+16. **[Devika (`stitionai/devika`)](https://github.com/stitionai/devika)** [![GitHub_Stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)  
     🤖 Open-source autonomous AI software engineer designed as a transparent alternative to Devin, combining planning, research, coding, and web browsing capabilities.
 
-17. **[Plandex (`plandex-ai/plandex`)](https://github.com/plandex-ai/plandex)** [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
+17. **[Plandex (`plandex-ai/plandex`)](https://github.com/plandex-ai/plandex)** [![GitHub_Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
     📋 Terminal-based AI coding engine engineered for complex, multi-file software engineering tasks featuring cumulative sandboxed diffs and human-in-the-loop approvals.
 
-18. **[E2B (`e2b-dev/E2B`)](https://github.com/e2b-dev/E2B)** [![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
+18. **[E2B (`e2b-dev/E2B`)](https://github.com/e2b-dev/E2B)** [![GitHub_Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
     🛡️ Open-source secure cloud microVM sandboxes built specifically for AI agents to safely execute arbitrary code, launch browsers, and run untrusted workloads in isolation.
 
-19. **[SWE-bench (`princeton-nlp/SWE-bench`)](https://github.com/princeton-nlp/SWE-bench)** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/SWE-bench?style=social&color=white)](https://github.com/princeton-nlp/SWE-bench/stargazers)  
+19. **[SWE-bench (`princeton-nlp/SWE-bench`)](https://github.com/princeton-nlp/SWE-bench)** [![GitHub_Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-bench?style=social&color=white)](https://github.com/princeton-nlp/SWE-bench/stargazers)  
     📏 The golden benchmark dataset and evaluation harness for autonomous software engineering agents evaluating end-to-end bug resolution on real-world Python repositories.
 
-20. **[Agentless (`OpenAutoCoder/Agentless`)](https://github.com/OpenAutoCoder/Agentless)** [![GitHub stars](https://img.shields.io/github/stars/OpenAutoCoder/Agentless?style=social&color=white)](https://github.com/OpenAutoCoder/Agentless/stargazers)  
+20. **[Agentless (`OpenAutoCoder/Agentless`)](https://github.com/OpenAutoCoder/Agentless)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAutoCoder/Agentless?style=social&color=white)](https://github.com/OpenAutoCoder/Agentless/stargazers)  
     🎯 Highly cost-effective, non-agentic three-phase architecture (hierarchical localization, repair generation, and patch validation) for automated software issue fixing.
 
 ---
@@ -172,3 +172,12 @@ Thank you to all open-source contributors and autonomous AI builders! 🙌
 ## ⭐ Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Autonomous-AI-Agents-Multimodal-Coding-Agents_growth.svg">
+  </picture>
+</a>
